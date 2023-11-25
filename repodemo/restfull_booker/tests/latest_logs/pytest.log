@@ -1,0 +1,6 @@
+22:14:06 DEBUG Starting new HTTPS connection (1): reqres.in:443
+22:14:07 DEBUG https://reqres.in:443 "POST /api/users HTTP/1.1" 201 78
+22:14:07 DEBUG Starting new HTTPS connection (1): reqres.in:443
+22:14:07 DEBUG https://reqres.in:443 "POST /api/register HTTP/1.1" 200 36
+22:14:07 DEBUG Starting new HTTPS connection (1): reqres.in:443
+22:14:07 DEBUG https://reqres.in:443 "POST /api/users HTTP/1.1" 201 217

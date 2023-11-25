@@ -1,0 +1,116 @@
+1700776736575	geckodriver	INFO	Listening on 127.0.0.1:59452
+1700776739659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileBBRDLE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700776740173	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700776740256	Marionette	INFO	Listening on port 59461
+WebDriver BiDi listening on ws://127.0.0.1:59453
+Read port: 59461
+1700776740502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59453/devtools/browser/d6183de9-077a-4358-a6bf-fe7371e5db2a
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/main-f71f0b5132b5008b.js, line 1: unreachable code after return statement
+1700776752378	Marionette	INFO	Stopped listening on port 59461
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js, line 1: Script terminated by timeout at:
+r@https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js:1:93507
+
+Dynamically enable window occlusion 1
+1700776827239	geckodriver	INFO	Listening on 127.0.0.1:59571
+1700776830300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileSK5EBM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700776830719	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700776830822	Marionette	INFO	Listening on port 59581
+WebDriver BiDi listening on ws://127.0.0.1:59572
+Read port: 59581
+1700776831035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59572/devtools/browser/e6808569-e1c0-4c46-b020-4a995552ac88
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/main-f71f0b5132b5008b.js, line 1: unreachable code after return statement
+1700776839785	Marionette	INFO	Stopped listening on port 59581
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js, line 1: Script terminated by timeout at:
+r@https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js:1:93507
+
+Dynamically enable window occlusion 1
+1700776932654	geckodriver	INFO	Listening on 127.0.0.1:59689
+1700776935708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileXaX14S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700776936102	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700776936188	Marionette	INFO	Listening on port 59699
+WebDriver BiDi listening on ws://127.0.0.1:59690
+Read port: 59699
+1700776936397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59690/devtools/browser/4dd69134-e7c3-406e-a67e-77bac09a1f00
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/main-f71f0b5132b5008b.js, line 1: unreachable code after return statement
+1700776944479	Marionette	INFO	Stopped listening on port 59699
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js, line 1: Script terminated by timeout at:
+r@https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js:1:93507
+
+Dynamically enable window occlusion 1
+1700777346245	geckodriver	INFO	Listening on 127.0.0.1:63073
+1700777349314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63074" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileMX1sMS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700777349852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700777349931	Marionette	INFO	Listening on port 63083
+WebDriver BiDi listening on ws://127.0.0.1:63074
+Read port: 63083
+1700777350459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63074/devtools/browser/eb6a666b-8cb2-406a-a2ca-d8a9a14a5a16
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/main-f71f0b5132b5008b.js, line 1: unreachable code after return statement
+1700777357979	Marionette	INFO	Stopped listening on port 63083
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js, line 1: Script terminated by timeout at:
+r@https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js:1:93507
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1700777465101	geckodriver	INFO	Listening on 127.0.0.1:63194
+1700777468174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile71UAnB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700777468569	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700777468662	Marionette	INFO	Listening on port 63204
+WebDriver BiDi listening on ws://127.0.0.1:63195
+Read port: 63204
+1700777468916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63195/devtools/browser/62e756b6-e903-491c-9146-3fb1b8b10b0e
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/main-f71f0b5132b5008b.js, line 1: unreachable code after return statement
+1700777499142	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700777549268	geckodriver	INFO	Listening on 127.0.0.1:63330
+1700777552358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileDaJXUo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700777552788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700777552866	Marionette	INFO	Listening on port 63340
+WebDriver BiDi listening on ws://127.0.0.1:63331
+Read port: 63340
+1700777553091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63331/devtools/browser/821226f4-8e08-495b-a757-e996534c0bdc
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/main-f71f0b5132b5008b.js, line 1: unreachable code after return statement
+1700777583529	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1700777642796	geckodriver	INFO	Listening on 127.0.0.1:63481
+1700777645867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileVaFt0E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700777646276	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700777646366	Marionette	INFO	Listening on port 63492
+WebDriver BiDi listening on ws://127.0.0.1:63482
+Read port: 63492
+1700777646580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63482/devtools/browser/11d1e611-cabd-4ff1-8788-f5e279f31191
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/main-f71f0b5132b5008b.js, line 1: unreachable code after return statement
+1700777654074	Marionette	INFO	Stopped listening on port 63492
+JavaScript warning: https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js, line 1: Script terminated by timeout at:
+r@https://www.history.com/editorial/_next/static/chunks/pages/_app-15de27e94e6f816c.js:1:93507
+
+Dynamically enable window occlusion 1
